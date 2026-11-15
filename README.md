@@ -21,7 +21,7 @@ Una sola app con un menú que lleva a los 4 retos:
 ## Capturas
 
 ## Menú principal
-
+<img width="728" height="1600" alt="WhatsApp Image 2026-11-15 at 4 47 06 PM (2)" src="https://github.com/user-attachments/assets/1b1b6367-5255-4c15-9698-8ad0a0617341" />
 
 ## Reto 1 · Recomendador de Películas
 <img width="728" height="1600" alt="WhatsApp Image 2026-11-15 at 4 47 06 PM (1)" src="https://github.com/user-attachments/assets/cedd82c3-2642-47c1-b914-ab684444c60e" />
