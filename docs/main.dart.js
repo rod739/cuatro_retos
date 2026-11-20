@@ -43984,9 +43984,9 @@ A.afT.prototype={
 tc(a){return this.a76(a)},
 a76(a){var s=0,r=A.O(t.wb),q,p,o,n,m,l,k,j,i,h,g,f
 var $async$tc=A.P(function(b,c){if(b===1)return A.L(c,r)
-for(;;)switch(s){case 0:if(B.c.bM("fe1a5482afcc30a292c40fe076ebbd8c","PEGA_AQUI")||B.c.iC("fe1a5482afcc30a292c40fe076ebbd8c").length===0)throw A.i(A.cj("Falta tu API key de OpenWeatherMap. P\xe9gala en lib/config.dart"))
+for(;;)switch(s){case 0:if(B.c.bM("Se_las_quite","PEGA_AQUI")||B.c.iC("Se_las_quite").length===0)throw A.i(A.cj("Falta tu API key de OpenWeatherMap. P\xe9gala en lib/config.dart"))
 p=A.ju(a,t.N,t.z)
-p.m(0,"appid","fe1a5482afcc30a292c40fe076ebbd8c")
+p.m(0,"appid","Se_las_quite")
 p.m(0,"units","metric")
 p.m(0,"lang","es")
 s=3
@@ -44229,12 +44229,12 @@ A.afW.prototype={
 AI(a){return this.aqX(a)},
 aqX(a){var s=0,r=A.O(t.zY),q,p,o,n,m
 var $async$AI=A.P(function(b,c){if(b===1)return A.L(c,r)
-for(;;)switch(s){case 0:if(B.c.bM("a95afdac22b85d071f533a1b3701af73","PEGA_AQUI")||B.c.iC("a95afdac22b85d071f533a1b3701af73").length===0)throw A.i(A.cj("Falta tu API key de TMDB. P\xe9gala en lib/config.dart"))
+for(;;)switch(s){case 0:if(B.c.bM("Se_las_quite","PEGA_AQUI")||B.c.iC("Se_las_quite").length===0)throw A.i(A.cj("Falta tu API key de TMDB. P\xe9gala en lib/config.dart"))
 p=a.b
 o=t.N
 n=t.z
 s=3
-return A.K(A.ayl(p==null?A.at5("https","api.themoviedb.org","/3/trending/movie/week",A.aq(["api_key","a95afdac22b85d071f533a1b3701af73","language","es-MX"],o,n)):A.at5("https","api.themoviedb.org","/3/discover/movie",A.aq(["api_key","a95afdac22b85d071f533a1b3701af73","language","es-MX","with_genres",A.j(p),"sort_by","popularity.desc"],o,n))).p_(B.jA),$async$AI)
+return A.K(A.ayl(p==null?A.at5("https","api.themoviedb.org","/3/trending/movie/week",A.aq(["api_key","Se_las_quite","language","es-MX"],o,n)):A.at5("https","api.themoviedb.org","/3/discover/movie",A.aq(["api_key","Se_las_quite","language","es-MX","with_genres",A.j(p),"sort_by","popularity.desc"],o,n))).p_(B.jA),$async$AI)
 case 3:m=c
 p=m.b
 if(p===401)throw A.i(A.cj("Tu API key de TMDB no es v\xe1lida. Revisa lib/config.dart"))
